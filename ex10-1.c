@@ -8,7 +8,8 @@ int flag = 5;
 
     // 태그 버전 실습 파일입니다.
         // 버전 1.0.0 실습
-        
+        // 버전 1.1.0 실습
+
 int main()
 {
     struct sigaction act;
